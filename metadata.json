@@ -1,0 +1,8 @@
+{
+  "name": "Motor Insurance Premium Predictor",
+  "description": "Actuarial and AI-assisted motor insurance risk assessment and premium pricing platform for Nigerian and UK markets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
